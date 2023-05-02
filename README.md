@@ -1,7 +1,7 @@
 
 # Small molecule sequestration of amyloid-β as a drug discovery strategy for Alzheimer's disease
 
-This repository contains data and input files for the manuscript entitled "Small molecule sequestration of amyloid-β as a drug discovery strategy for Alzheimer's disease" by Heller et al. https://doi.org/10.1101/729392
+This repository contains data and input files for the manuscript entitled "Small molecule sequestration of amyloid-β as a drug discovery strategy for Alzheimer's disease" by Heller et al. https://doi.org/10.1126/sciadv.abb5924
 
 ####  In particular files include: 
 1. Data in comma-separated values file (.csv) format
